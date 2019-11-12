@@ -1,5 +1,29 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## GiphyFinder
+
+Single page front-end application, that lets you search for your favorite GIPHYs. Choose amount of GIPHY's you would like to display. 
+
+## Heroku Link:
+https://intense-mesa-29314.herokuapp.com/
+
+## Technologies Used 
+- React
+- GIPHY development API
+- Bootstrap
+- Material-UI
+
+## Screenshots
+
+<img width="1104" alt="Screen Shot 2019-11-11 at 10 43 31 PM" src="https://user-images.githubusercontent.com/50389914/68648239-c2713b80-04d4-11ea-8ae1-0f4e50e99ee0.png">
+
+
+------------------------------------------------------------------------------------------------
+
+<img width="1436" alt="Screen Shot 2019-11-11 at 10 45 53 PM" src="https://user-images.githubusercontent.com/50389914/68648359-111ed580-04d5-11ea-8b0d-5792e40bd2a2.png">
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -37,32 +61,3 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
